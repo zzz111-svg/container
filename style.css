@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(205, 93, 93);
+}
+h1{
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
+span{
+    color: yellow;
+   text-align: center; 
+}
+.navbar{
+    display: flex;
+    justify-content:space-evenly;
+    gap: 20px;
+}
+h2{
+font-size: 30px;
+}
+.tepa1 {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+  }
+  
+  .tepa2 {
+    display: flex;
+    font-size: 20px;
+    justify-content: space-around;
+  }
+  
+  .q,
+  .w,
+  .e {
+    width: 300px;
+    background-color: black;
+    text-align: center;
+    color: white;
+  }
+  
+  .center1,
+  .center2 {
+    margin: 20px 0px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
